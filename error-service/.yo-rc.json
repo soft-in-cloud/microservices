@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.adriangraczyk.errorservice"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "errorservice",
+    "packageName": "com.adriangraczyk.errorservice",
+    "packageFolder": "com/adriangraczyk/errorservice",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTVmOGNlNDU5NDdhNDM1YzQwYjAyMGI5ODYwOTRiYmZmZmFjMDQ5MDNkM2ZiYjgzZWM4Yzk3YWNhMTQwYTAxYzMyYTI0MDMwOWU0ZTk2YzM0NmMwMjA3NWE3NTdjODBjMGYwY2MyNWNhODBhMDBmNzA3OTY1ZDExNmFhNzJhMTg=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1595526193113,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "reactive": true,
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}

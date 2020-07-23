@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.adriangraczyk.gateway",
+      "microservicePath": "../error-service"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "com.adriangraczyk.gateway",
+    "packageFolder": "com/adriangraczyk/gateway",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "N2YxNDk1OTIyZTA1MmM5ZWM4ZDFiNzQwMGQ5NjNlYzU3NmVmNmY0NWZkMWU2YjdkMDI0ZTIwYzI1ZjI0N2UzNGFiOWY5MWYzZWZhYTE0YzNiOTQxNTU0MDY3ODU3MjljNjVhODcwN2NkMmM3MzBjY2Q2MDEyZWJiYjgxZTZkZDg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1595438316634,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}

@@ -1,0 +1,11 @@
+entity Error (error) {
+  exceptionName String maxlength(500),
+  message String maxlength(500),
+  stackTrace String maxlength(5000),
+  createdAt Instant,
+  serviceName String maxlength(200)
+}
+
+dto * with mapstruct
+paginate * with pagination
+service * with serviceClass

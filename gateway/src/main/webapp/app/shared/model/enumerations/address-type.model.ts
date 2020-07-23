@@ -1,0 +1,5 @@
+export const enum AddressType {
+  REGISTERED_ADDRESS = 'REGISTERED_ADDRESS',
+
+  HOME_ADDRESS = 'HOME_ADDRESS',
+}
