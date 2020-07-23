@@ -1,0 +1,12 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["employee-service", "error-service", "gateway"],
+    "directoryPath": "../",
+    "gatewayType": "zuul",
+    "clusteredDbApps": [],
+    "monitoring": "no",
+    "consoleOptions": [],
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "YWQ5NmU0NTkxMTRlMGM0OWE2NzRkMWVjZWEyMTRhNDFkZjY2YWUxMThlYjlhOTVmOWViNTQzNmM5MzEyY2Q3NWRiNGQ3ZmFiYmJlYjY4N2M0M2Y5OGRjN2I5N2ZmNDdlNzdlNA=="
+  }
+}
